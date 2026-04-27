@@ -21,7 +21,7 @@ class Mangakuri : HttpSource() {
 
     override val name = "Mangakuri"
 
-    override val baseUrl = "https://lc1.mangakuri.online/"
+    override val baseUrl = "https://lc1.mangakuri.online"
 
     override val lang = "id"
 
